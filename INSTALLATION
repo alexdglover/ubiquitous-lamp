@@ -1,0 +1,17 @@
+**************************************************
+
+Alex Glover
+http://alexdglover.wordpress.com
+27-Jan-2013
+Twenty Eleven + Slider WordPress Theme
+
+**************************************************
+
+Installation
+1. Unzip the file
+2. Copy the entire "twentyeleven+slider" folder into www/wordpress/wp-content/themes
+3. Copy the "galleria.classic.min.js" file into www/wordpress/ (one of the Javascript files makes a call to a DOM object to append part of the script
+directly to the page and ignores relative file paths)
+4. Go to the admin console of your WordPress install, choose Apperance-->Themes, and select "Activate Now" under "Twenty Eleven + Slider"
+5. Add/remove images to/from the "slider_images" directory as you see fit
+6. Enjoy
